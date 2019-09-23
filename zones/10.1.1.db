@@ -13,3 +13,4 @@ $TTL    604800
 3   IN  PTR     sto-dockerhost-a1.infra.siebecke.se
 4   IN  PTR     sto-dnsmaster-a1.infra.siebecke.se
 5   IN  PTR     sto-freenas-a1.infra.siebecke.se
+50  IN  PTR     sto-kafka-a1.infra.siebecke.se

@@ -25,3 +25,4 @@ unifi.infra.siebecke.se.        IN  A   10.1.1.3
 sto-dockerhost-a1.infra.siebecke.se     IN  A   10.1.1.3
 sto-dnsmaster-a1.infra.siebecke.se      IN  A   10.1.1.4
 sto-freenas-a1.infra.siebecke.se        IN  A   10.1.1.5
+sto-kafka-a1.infra.siebecke.se          IN  A   10.1.1.50
