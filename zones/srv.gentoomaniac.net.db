@@ -1,0 +1,22 @@
+$TTL    604800
+@       IN      SOA     ns1.srv.gentoomaniac.net. admin.srv.gentoomaniac.net. (
+     20190926124300     ; Serial
+             604800     ; Refresh
+              86400     ; Retry
+            2419200     ; Expire
+             604800 )   ; Negative Cache TTL
+
+; name servers - NS records
+    IN  NS  ns1.srv.gentoomaniac.net.
+
+; service - A records
+usg.srv.gentoomaniac.net.          IN  A   10.1.1.1
+nas.srv.gentoomaniac.net.          IN  A   10.1.1.5
+nzbget.srv.gentoomaniac.net.       IN  A   10.1.1.3
+plex.srv.gentoomaniac.net.         IN  A   10.1.1.3
+portainer.srv.gentoomaniac.net.    IN  A   10.1.1.3
+radarr-ger.srv.gentoomaniac.net.   IN  A   10.1.1.3
+radarr.srv.gentoomaniac.net.       IN  A   10.1.1.3
+sonarr.srv.gentoomaniac.net.       IN  A   10.1.1.3
+tautulli.srv.gentoomaniac.net.     IN  A   10.1.1.3
+unifi.srv.gentoomaniac.net.        IN  A   10.1.1.3
