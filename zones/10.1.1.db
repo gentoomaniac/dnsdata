@@ -8,6 +8,7 @@ $TTL    604800
 
 ; name servers
     IN  NS  ns1.srv.gentoomaniac.net.
+    IN  NS  ns2.srv.gentoomaniac.net.
 
 ; PTR Records
 3   IN  PTR     sto-dockerhost-a1.sto.gentoomaniac.net

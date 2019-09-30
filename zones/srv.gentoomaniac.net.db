@@ -8,8 +8,11 @@ $TTL    604800
 
 ; name servers - NS records
     IN  NS  ns1.srv.gentoomaniac.net.
+    IN  NS  ns2.srv.gentoomaniac.net.
 
 ; service - A records
+ns1.srv.gentoomaniac.net           IN  A   10.1.1.4
+ns2.srv.gentoomaniac.net           IN  A   10.1.1.51
 usg.srv.gentoomaniac.net.          IN  A   10.1.1.1
 nas.srv.gentoomaniac.net.          IN  A   10.1.1.5
 nzbget.srv.gentoomaniac.net.       IN  A   10.1.1.3
