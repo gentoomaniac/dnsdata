@@ -11,15 +11,15 @@ $TTL    604800
     IN  NS  ns2.srv.gentoomaniac.net.
 
 ; service - A records
-ns1.srv.gentoomaniac.net           IN  A   10.1.1.4
-ns2.srv.gentoomaniac.net           IN  A   10.1.1.51
-usg.srv.gentoomaniac.net.          IN  A   10.1.1.1
-nas.srv.gentoomaniac.net.          IN  A   10.1.1.5
-nzbget.srv.gentoomaniac.net.       IN  A   10.1.1.3
-plex.srv.gentoomaniac.net.         IN  A   10.1.1.3
-portainer.srv.gentoomaniac.net.    IN  A   10.1.1.3
-radarr-ger.srv.gentoomaniac.net.   IN  A   10.1.1.3
-radarr.srv.gentoomaniac.net.       IN  A   10.1.1.3
-sonarr.srv.gentoomaniac.net.       IN  A   10.1.1.3
-tautulli.srv.gentoomaniac.net.     IN  A   10.1.1.3
-unifi.srv.gentoomaniac.net.        IN  A   10.1.1.3
+ns1          IN  A   10.1.1.4
+ns2          IN  A   10.1.1.51
+usg          IN  A   10.1.1.1
+nas          IN  A   10.1.1.5
+nzbget       IN  A   10.1.1.3
+plex         IN  A   10.1.1.3
+portainer    IN  A   10.1.1.3
+radarr-ger   IN  A   10.1.1.3
+radarr       IN  A   10.1.1.3
+sonarr       IN  A   10.1.1.3
+tautulli     IN  A   10.1.1.3
+unifi        IN  A   10.1.1.3
