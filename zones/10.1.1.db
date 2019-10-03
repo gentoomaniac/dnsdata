@@ -14,5 +14,5 @@ $TTL    604800
 3   IN  PTR     sto-dockerhost-a1.sto.gentoomaniac.net.
 4   IN  PTR     sto-dnsmaster-a1.sto.gentoomaniac.net.
 5   IN  PTR     sto-freenas-a1.sto.gentoomaniac.net.
-50  IN  PTR     sto-kafka-a1.sto.gentoomaniac.net.
+50  IN  PTR     sto-monitoringdb-a1.sto.gentoomaniac.net.
 51   IN  PTR    sto-dnsmaster-b1.sto.gentoomaniac.net.

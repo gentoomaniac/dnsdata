@@ -14,5 +14,5 @@ $TTL    604800
 sto-dockerhost-a1     IN  A   10.1.1.3
 sto-dnsmaster-a1      IN  A   10.1.1.4
 sto-freenas-a1        IN  A   10.1.1.5
-sto-kafka-a1          IN  A   10.1.1.50
+sto-monitoringdb-a1   IN  A   10.1.1.50
 sto-dnsmaster-b1      IN  A   10.1.1.51
