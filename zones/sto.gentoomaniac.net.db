@@ -16,3 +16,4 @@ sto-dnsmaster-a1      IN  A   10.1.1.4
 sto-freenas-a1        IN  A   10.1.1.5
 sto-monitoringdb-a1   IN  A   10.1.1.50
 sto-dnsmaster-b1      IN  A   10.1.1.51
+sto-coredns-a1        IN  A   10.1.1.52
