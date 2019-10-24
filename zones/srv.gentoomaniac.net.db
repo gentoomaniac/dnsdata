@@ -27,4 +27,4 @@ elasticsearch IN A   10.1.1.3
 grafana      IN  A   10.1.1.3
 registry     IN  A   10.1.1.3
 logstash     IN  A   10.1.1.3
-
+ks           IN  A   10.1.1.3

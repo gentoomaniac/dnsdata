@@ -1,6 +1,6 @@
 $TTL    604800
 @       IN      SOA     ns1.srv.gentoomaniac.net. admin.srv.gentoomaniac.net. (
-         1569841195     ; Serial
+         1570801951     ; Serial
              604800     ; Refresh
               86400     ; Retry
             2419200     ; Expire
@@ -14,6 +14,6 @@ $TTL    604800
 sto-dockerhost-a1     IN  A   10.1.1.3
 sto-dnsmaster-a1      IN  A   10.1.1.4
 sto-freenas-a1        IN  A   10.1.1.5
-sto-monitoringdb-a1   IN  A   10.1.1.50
-sto-dnsmaster-b1      IN  A   10.1.1.51
+sto-proxmox-a1        IN  A   10.1.1.6
 sto-coredns-a1        IN  A   10.1.1.52
+sto-coredns-a1        IN  A   10.1.1.53
