@@ -16,4 +16,4 @@ sto-dnsmaster-a1      IN  A   10.1.1.4
 sto-freenas-a1        IN  A   10.1.1.5
 sto-proxmox-a1        IN  A   10.1.1.6
 sto-coredns-a1        IN  A   10.1.1.52
-sto-coredns-a1        IN  A   10.1.1.53
+sto-coredns-b1        IN  A   10.1.1.53
