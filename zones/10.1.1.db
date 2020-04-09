@@ -15,5 +15,6 @@ $TTL    604800
 4   IN  PTR     sto-dnsmaster-a1.sto.gentoomaniac.net.
 5   IN  PTR     sto-freenas-a1.sto.gentoomaniac.net.
 6   IN  PTR     sto-proxmox-a1.sto.gentoomaniac.net.
+7   IN  PTR     sto-proxmox-a2.sto.gentoomaniac.net.
 52   IN  PTR    sto-coredns-a1.sto.gentoomaniac.net.
 53   IN  PTR    sto-coredns-b1.sto.gentoomaniac.net.

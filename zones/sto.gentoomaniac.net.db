@@ -15,5 +15,6 @@ sto-dockerhost-a1     IN  A   10.1.1.3
 sto-dnsmaster-a1      IN  A   10.1.1.4
 sto-freenas-a1        IN  A   10.1.1.5
 sto-proxmox-a1        IN  A   10.1.1.6
+sto-proxmox-a2        IN  A   10.1.1.7
 sto-coredns-a1        IN  A   10.1.1.52
 sto-coredns-b1        IN  A   10.1.1.53
