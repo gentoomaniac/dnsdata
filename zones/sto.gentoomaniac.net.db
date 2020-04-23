@@ -18,3 +18,4 @@ sto-proxmox-a1        IN  A   10.1.1.6
 sto-proxmox-a2        IN  A   10.1.1.7
 sto-coredns-a1        IN  A   10.1.1.52
 sto-coredns-b1        IN  A   10.1.1.53
+sto-nzbget-a1         IN  A   10.1.1.60
