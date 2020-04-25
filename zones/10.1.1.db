@@ -19,3 +19,4 @@ $TTL    604800
 52   IN  PTR    sto-coredns-a1.sto.gentoomaniac.net.
 53   IN  PTR    sto-coredns-b1.sto.gentoomaniac.net.
 60   IN  PTR    sto-nzbget-a1.sto.gentoomaniac.net.
+61   IN  PTR    sto-vault-a1.sto.gentoomaniac.net.

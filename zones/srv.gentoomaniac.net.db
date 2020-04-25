@@ -32,3 +32,4 @@ logstash     IN  A   10.1.1.3
 ks           IN  A   10.1.1.3
 proxmox1     IN  A   10.1.1.3
 proxmox2     IN  A   10.1.1.3
+vault        IN  A   10.1.1.61
