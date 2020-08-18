@@ -15,7 +15,7 @@ ns1          IN  A   10.1.1.52
 ns2          IN  A   10.1.1.53
 usg          IN  A   10.1.1.1
 nas          IN  A   10.1.1.3
-nzbget       IN  A   10.1.1.3
+nzbget       IN  A   10.1.1.60
 plex         IN  A   10.1.1.3
 portainer    IN  A   10.1.1.3
 radarr-kids  IN  A   10.1.1.3
