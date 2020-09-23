@@ -34,3 +34,4 @@ proxmox1     IN  A   10.1.1.3
 proxmox2     IN  A   10.1.1.3
 vault        IN  A   10.1.1.61
 influxdb     IN  A   10.1.1.62
+chronograf   IN  A   10.1.1.62
