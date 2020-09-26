@@ -21,3 +21,6 @@ sto-coredns-b1        IN  A   10.1.1.53
 sto-nzbget-a1         IN  A   10.1.1.60
 sto-vault-a1          IN  A   10.1.1.61
 sto-influxdb-a1       IN  A   10.1.1.62
+sto-k8s-a1            IN  A   10.1.1.71
+sto-k8s-a2            IN  A   10.1.1.72
+sto-k8s-a3            IN  A   10.1.1.73
