@@ -17,7 +17,7 @@ $TTL    604800
 6   IN  PTR     sto-proxmox-a1.sto.gentoomaniac.net.
 7   IN  PTR     sto-proxmox-a2.sto.gentoomaniac.net.
 52   IN  PTR    sto-coredns-a1.sto.gentoomaniac.net.
-53   IN  PTR    sto-coredns-b1.sto.gentoomaniac.net.
+53   IN  PTR    sto-coredns-c1.sto.gentoomaniac.net.
 60   IN  PTR    sto-nzbget-a1.sto.gentoomaniac.net.
 61   IN  PTR    sto-vault-a1.sto.gentoomaniac.net.
 62   IN  PTR    sto-influxdb-a1.sto.gentoomaniac.net.
