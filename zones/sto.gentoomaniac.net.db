@@ -16,6 +16,7 @@ sto-dockerhost-a2     IN  A   10.1.1.4
 sto-freenas-a1        IN  A   10.1.1.5
 sto-proxmox-a1        IN  A   10.1.1.6
 sto-proxmox-a2        IN  A   10.1.1.7
+sto-infra-a1          IN  A   10.1.1.9
 sto-coredns-a1        IN  A   10.1.1.52
 sto-coredns-c1        IN  A   10.1.1.53
 sto-nzbget-a1         IN  A   10.1.1.60
