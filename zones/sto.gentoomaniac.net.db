@@ -12,7 +12,6 @@ $TTL    604800
 
 ; 10.1.1.0/24 - A records
 sto-plex-a1     IN  A   10.1.1.3
-sto-dockerhost-a2     IN  A   10.1.1.4
 sto-freenas-a1        IN  A   10.1.1.5
 sto-proxmox-a1        IN  A   10.1.1.6
 sto-proxmox-a2        IN  A   10.1.1.7
@@ -22,6 +21,3 @@ sto-coredns-c1        IN  A   10.1.1.53
 sto-nzbget-a1         IN  A   10.1.1.60
 sto-vault-a1          IN  A   10.1.1.61
 sto-influxdb-a1       IN  A   10.1.1.62
-sto-k8s-a1            IN  A   10.1.1.71
-sto-k8s-a2            IN  A   10.1.1.72
-sto-k8s-a3            IN  A   10.1.1.73
