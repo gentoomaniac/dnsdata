@@ -33,3 +33,4 @@ vault        IN  A   10.1.1.61
 influxdb     IN  A   10.1.1.62
 chronograf   IN  A   10.1.1.62
 auth         IN  A   10.1.1.9
+youtube-dl   IN  A   10.1.1.3
