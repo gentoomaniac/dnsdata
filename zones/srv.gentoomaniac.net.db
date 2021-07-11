@@ -20,6 +20,7 @@ plex         IN  A   10.1.1.3
 radarr-kids  IN  A   10.1.1.3
 radarr       IN  A   10.1.1.3
 sonarr       IN  A   10.1.1.3
+lidarr       IN  A   10.1.1.3
 tautulli     IN  A   10.1.1.3
 unifi        IN  A   10.1.1.9
 protect      IN  A   10.1.1.9
