@@ -21,3 +21,4 @@ $TTL    604800
 60   IN  PTR    sto-nzbget-a1.sto.gentoomaniac.net.
 61   IN  PTR    sto-vault-a1.sto.gentoomaniac.net.
 62   IN  PTR    sto-influxdb-a1.sto.gentoomaniac.net.
+63   IN  PTR    sto-minecraft-a1.sto.gentoomaniac.net.
