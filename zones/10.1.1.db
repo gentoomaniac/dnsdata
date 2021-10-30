@@ -23,6 +23,7 @@ $TTL    604800
 62   IN  PTR    sto-influxdb-a1.sto.gentoomaniac.net.
 63   IN  PTR    sto-minecraft-a1.sto.gentoomaniac.net.
 
+220   IN  PTR    sto-miner-a1.sto.gentoomaniac.net.
 231   IN  PTR    sto-k8s-a1.sto.gentoomaniac.net.
 232   IN  PTR    sto-k8s-a2.sto.gentoomaniac.net.
 233   IN  PTR    sto-k8s-a3.sto.gentoomaniac.net.
