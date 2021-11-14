@@ -12,3 +12,4 @@ $TTL    604800
 
 ; service - A records
 auth         IN  A   10.1.1.9
+whoami       IN  A   10.1.1.9
