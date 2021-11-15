@@ -37,4 +37,5 @@ tautulli     IN  A   10.1.1.3
 unifi        IN  A   10.1.1.9
 usg          IN  A   10.1.1.1
 vault        IN  A   10.1.1.61
+whoami       IN  A   10.1.1.9
 youtube-dl   IN  A   10.1.1.3
