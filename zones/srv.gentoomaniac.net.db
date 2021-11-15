@@ -11,6 +11,7 @@ $TTL    604800
     IN  NS  ns2.srv.gentoomaniac.net.
 
 ; service - A records
+auth         IN  A   10.1.1.9
 chronograf   IN  A   10.1.1.62
 ck           IN  A   10.1.1.9
 grafana      IN  A   10.1.1.62
