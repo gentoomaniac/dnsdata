@@ -23,7 +23,7 @@ minecraft    IN  A   10.1.1.63
 nas          IN  A   10.1.1.9
 ns1          IN  A   10.1.1.52
 ns2          IN  A   10.1.1.53
-nzbget       IN  A   10.1.1.60
+nzbget       IN  A   10.1.1.3
 plex         IN  A   10.1.1.3
 protect      IN  A   10.1.1.9
 proxmox1     IN  A   10.1.1.9
