@@ -12,6 +12,7 @@ $TTL    604800
 
 ; service - A records
 auth         IN  A   10.1.1.9
+azeroth      IN  A   10.1.1.64
 chronograf   IN  A   10.1.1.62
 ck           IN  A   10.1.1.9
 grafana      IN  A   10.1.1.62

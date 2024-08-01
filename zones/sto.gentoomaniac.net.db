@@ -22,6 +22,7 @@ sto-nzbget-a1         IN  A   10.1.1.60
 sto-vault-a1          IN  A   10.1.1.61
 sto-influxdb-a1       IN  A   10.1.1.62
 sto-minecraft-a1      IN  A   10.1.1.63
+sto-azeroth-a1        IN  A   10.1.1.64
 
 sto-miner-a1          IN  A   10.1.1.220
 sto-k8s-a1            IN  A   10.1.1.231
