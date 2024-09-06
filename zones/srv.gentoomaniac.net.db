@@ -16,9 +16,7 @@ azeroth      IN  A   10.1.1.64
 chronograf   IN  A   10.1.1.62
 ck           IN  A   10.1.1.9
 grafana      IN  A   10.1.1.62
-influxdb     IN  A   10.1.1.62
-influxdb2     IN  A   10.1.1.62
-jellyfin     IN  A   10.1.1.3
+tempo        IN  A   10.1.1.62
 ks           IN  A   10.1.1.9
 lidarr       IN  A   10.1.1.3
 minecraft    IN  A   10.1.1.63
@@ -28,8 +26,7 @@ ns2          IN  A   10.1.1.53
 nzbget       IN  A   10.1.1.60
 plex         IN  A   10.1.1.3
 protect      IN  A   10.1.1.9
-proxmox1     IN  A   10.1.1.6
-proxmox2     IN  A   10.1.1.9
+proxmox      IN  A   10.1.1.6
 radarr       IN  A   10.1.1.3
 radarr-kids  IN  A   10.1.1.3
 registry     IN  A   10.1.1.9
