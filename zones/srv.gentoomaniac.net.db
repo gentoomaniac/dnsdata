@@ -26,6 +26,7 @@ ns2          IN  A   10.1.1.53
 nzbget       IN  A   10.1.1.60
 plex         IN  A   10.1.1.3
 protect      IN  A   10.1.1.9
+prometheus   IN  A   10.1.1.62
 proxmox      IN  A   10.1.1.6
 radarr       IN  A   10.1.1.3
 radarr-kids  IN  A   10.1.1.3
@@ -33,7 +34,6 @@ registry     IN  A   10.1.1.9
 sonarr       IN  A   10.1.1.3
 sonarr-kids  IN  A   10.1.1.3
 tautulli     IN  A   10.1.1.3
-trace-ingest IN  A   10.1.1.62
 unifi        IN  A   10.1.1.9
 usg          IN  A   10.1.1.1
 vault        IN  A   10.1.1.61
