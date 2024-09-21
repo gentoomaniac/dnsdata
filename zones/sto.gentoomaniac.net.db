@@ -11,7 +11,7 @@ $TTL    604800
     IN  NS  ns2.srv.gentoomaniac.net.
 
 ; 10.1.1.0/24 - A records
-sto-plex-a1     IN  A   10.1.1.3
+sto-plex-a1           IN  A   10.1.1.3
 sto-freenas-a1        IN  A   10.1.1.5
 sto-proxmox-a1        IN  A   10.1.1.6
 sto-infra-a1          IN  A   10.1.1.9
