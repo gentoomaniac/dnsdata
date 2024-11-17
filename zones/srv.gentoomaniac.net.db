@@ -19,7 +19,7 @@ grafana      IN  A   10.1.1.62
 tempo        IN  A   10.1.1.62
 otelcol      IN  A   10.1.1.62
 ks           IN  A   10.1.1.9
-minecraft    IN  A   10.1.1.63
+minecraft    IN  A   10.1.1.66
 nas          IN  A   10.1.1.9
 ns1          IN  A   10.1.1.52
 ns2          IN  A   10.1.1.53
