@@ -22,3 +22,4 @@ sto-vault-a1          IN  A   10.1.1.61
 sto-grafana-a1        IN  A   10.1.1.62
 sto-minecraft-a1      IN  A   10.1.1.63
 sto-azeroth-a1        IN  A   10.1.1.64
+sto-minecraft-b1      IN  A   10.1.1.66
