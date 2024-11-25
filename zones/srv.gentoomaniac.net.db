@@ -13,7 +13,6 @@ $TTL    604800
 ; service - A records
 auth         IN  A   10.1.1.9
 azeroth      IN  A   10.1.1.64
-chronograf   IN  A   10.1.1.62
 ck           IN  A   10.1.1.9
 grafana      IN  A   10.1.1.62
 tempo        IN  A   10.1.1.62
@@ -31,6 +30,7 @@ proxmox      IN  A   10.1.1.6
 radarr       IN  A   10.1.1.3
 radarr-kids  IN  A   10.1.1.3
 registry     IN  A   10.1.1.9
+shelly-exporter IN  A   10.1.1.62
 sonarr       IN  A   10.1.1.3
 sonarr-kids  IN  A   10.1.1.3
 tautulli     IN  A   10.1.1.3
