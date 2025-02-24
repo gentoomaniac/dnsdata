@@ -16,6 +16,7 @@ azeroth      IN  A   10.1.1.64
 ck           IN  A   10.1.1.9
 grafana      IN  A   10.1.1.62
 tempo        IN  A   10.1.1.62
+tempo-otelhttp IN  A   10.1.1.62
 otelcol      IN  A   10.1.1.62
 ks           IN  A   10.1.1.9
 lidarr       IN  A   10.1.1.3
