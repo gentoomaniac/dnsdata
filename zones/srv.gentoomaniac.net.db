@@ -14,6 +14,7 @@ $TTL    604800
 auth         IN  A   10.1.1.9
 azeroth      IN  A   10.1.1.64
 ck           IN  A   10.1.1.9
+git          IN  A   10.1.1.20
 grafana      IN  A   10.1.1.62
 tempo        IN  A   10.1.1.62
 tempo-otelhttp IN  A   10.1.1.62

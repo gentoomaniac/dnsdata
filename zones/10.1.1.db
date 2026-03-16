@@ -15,12 +15,12 @@ $TTL    604800
 5   IN  PTR     sto-freenas-a1.sto.gentoomaniac.net.
 6   IN  PTR     sto-proxmox-a1.sto.gentoomaniac.net.
 9   IN  PTR     sto-infra-a1.sto.gentoomaniac.net.
+20   IN  PTR    sto-dev-a1.sto.gentoomaniac.net.
 52   IN  PTR    sto-coredns-a1.sto.gentoomaniac.net.
 53   IN  PTR    sto-coredns-c1.sto.gentoomaniac.net.
 60   IN  PTR    sto-nzbget-a1.sto.gentoomaniac.net.
 61   IN  PTR    sto-vault-a1.sto.gentoomaniac.net.
 62   IN  PTR    sto-grafana-a1.sto.gentoomaniac.net.
-63   IN  PTR    sto-minecraft-a1.sto.gentoomaniac.net.
 64   IN  PTR    sto-azeroth-a1.sto.gentoomaniac.net.
 66   IN  PTR    sto-grafana-a1.sto.gentoomaniac.net.
 
