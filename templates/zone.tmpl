@@ -1,0 +1,21 @@
+$ORIGIN ${domain_name}.
+$TTL ${default_ttl}
+
+@   IN  SOA  ns1.${domain_name}. admin.${domain_name}. (
+                ${serial}       ; serial
+                ${refresh}      ; refresh (Seconds)
+                ${retry}        ; retry (Seconds)
+                ${expire}       ; expire (Seconds)
+                ${minimum_ttl}  ; minimum/neg cache (Seconds)
+        )
+
+@       IN  NS   ns1.${domain_name}.
+@       IN  NS   ns2.${domain_name}.
+
+ns1     IN  A    10.1.1.52
+ns2     IN  A    10.1.1.53
+
+; Service Records
+%{ for s in services ~}
+${format("%-15s", s.name)} IN  A  ${s.private_ip}
+%{ endfor ~}
