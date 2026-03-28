@@ -11,35 +11,31 @@ $TTL    604800
     IN  NS  ns2.srv.gentoomaniac.net.
 
 ; service - A records
-auth         IN  A   10.1.1.9
+auth         IN  A   10.1.1.19
 azeroth      IN  A   10.1.1.64
-ck           IN  A   10.1.1.9
 git          IN  A   10.1.1.20
 grafana      IN  A   10.1.1.62
 tempo        IN  A   10.1.1.62
 tempo-otelhttp IN  A 10.1.1.62
 otelcol      IN  A   10.1.1.62
-ks           IN  A   10.1.1.9
+ks           IN  A   10.1.1.19
 lidarr       IN  A   10.1.1.3
 minio        IN  A   10.1.1.5
-nas          IN  A   10.1.1.9
+nas          IN  A   10.1.1.19
 ns1          IN  A   10.1.1.52
 ns2          IN  A   10.1.1.53
 nzbget       IN  A   10.1.1.60
-openhab      IN  A   10.1.1.9
 plex         IN  A   10.1.1.3
 prometheus   IN  A   10.1.1.62
 proxmox      IN  A   10.1.1.6
 radarr       IN  A   10.1.1.3
 radarr-kids  IN  A   10.1.1.3
 readarr      IN  A   10.1.1.3
-registry     IN  A   10.1.1.9
 shelly-exporter IN  A 10.1.1.62
 sonarr       IN  A   10.1.1.3
 sonarr-kids  IN  A   10.1.1.3
 tautulli     IN  A   10.1.1.3
-unifi        IN  A   10.1.1.9
+unifi        IN  A   10.1.1.19
 usg          IN  A   10.1.1.1
 vault        IN  A   10.1.1.61
-whoami       IN  A   10.1.1.9
 youtube-dl   IN  A   10.1.1.3
