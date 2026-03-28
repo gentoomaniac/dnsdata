@@ -1,6 +1,6 @@
 services:
   # ==========================================
-  # Canonical Infrastructure 
+  # Canonical Infrastructure
   # (Explicitly set reverse: true to generate PTRs)
   # ==========================================
   - name: "usg"
@@ -31,6 +31,12 @@ services:
     zones: ["sto.gentoomaniac.net"]
     type: "A"
     value: "10.1.1.9"
+    reverse: true
+
+  - name: "sto-infra-b1"
+    zones: ["sto.gentoomaniac.net"]
+    type: "A"
+    value: "10.1.1.19"
     reverse: true
 
   - name: "sto-dev-a1"
