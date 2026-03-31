@@ -12,6 +12,7 @@ $TTL    604800
 
 ; service - A records
 auth         IN  A   10.1.1.19
+arch         IN  A   10.1.1.19
 azeroth      IN  A   10.1.1.64
 git          IN  A   10.1.1.20
 grafana      IN  A   10.1.1.62
