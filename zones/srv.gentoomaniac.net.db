@@ -21,6 +21,7 @@ otelcol      IN  A   10.1.1.62
 ks           IN  A   10.1.1.19
 lidarr       IN  A   10.1.1.3
 minio        IN  A   10.1.1.19
+minio-web    IN  A   10.1.1.19
 nas          IN  A   10.1.1.19
 ns1          IN  A   10.1.1.52
 ns2          IN  A   10.1.1.53
