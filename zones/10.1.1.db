@@ -26,4 +26,4 @@ $TTL    604800
 64   IN  PTR    sto-azeroth-a1.sto.gentoomaniac.net.
 66   IN  PTR    sto-grafana-a1.sto.gentoomaniac.net.
 67   IN  PTR    sto-palworld-a1.sto.gentoomaniac.net.
-
+70   IN  PTR    sto-homeassistant-a1.sto.gentoomaniac.net.

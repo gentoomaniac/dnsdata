@@ -25,3 +25,4 @@ sto-grafana-a1        IN  A   10.1.1.62
 sto-windrose-a1       IN  A   10.1.1.63
 sto-azeroth-a1        IN  A   10.1.1.64
 sto-palworld-a1        IN  A   10.1.1.67
+sto-homeassistant-a1        IN  A   10.1.1.70
