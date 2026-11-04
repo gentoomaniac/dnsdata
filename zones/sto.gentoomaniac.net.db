@@ -19,6 +19,8 @@ sto-infra-b1          IN  A   10.1.1.19
 sto-dev-a1            IN  A   10.1.1.20
 sto-coredns-a1        IN  A   10.1.1.52
 sto-coredns-c1        IN  A   10.1.1.53
+sto-nzbget-b1         IN  A   10.1.1.58
+sto-vault-b1          IN  A   10.1.1.59
 sto-nzbget-a1         IN  A   10.1.1.60
 sto-vault-a1          IN  A   10.1.1.61
 sto-grafana-a1        IN  A   10.1.1.62

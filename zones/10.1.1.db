@@ -19,6 +19,8 @@ $TTL    604800
 20   IN  PTR    sto-dev-a1.sto.gentoomaniac.net.
 52   IN  PTR    sto-coredns-a1.sto.gentoomaniac.net.
 53   IN  PTR    sto-coredns-c1.sto.gentoomaniac.net.
+58   IN  PTR    sto-nzbget-b1.sto.gentoomaniac.net.
+59   IN  PTR    sto-vault-b1.sto.gentoomaniac.net.
 60   IN  PTR    sto-nzbget-a1.sto.gentoomaniac.net.
 61   IN  PTR    sto-vault-a1.sto.gentoomaniac.net.
 62   IN  PTR    sto-grafana-a1.sto.gentoomaniac.net.
