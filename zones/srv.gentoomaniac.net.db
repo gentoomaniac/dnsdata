@@ -33,6 +33,7 @@ palworld     IN  A   10.1.1.67
 plex         IN  A   10.1.1.3
 prometheus   IN  A   10.1.1.62
 proxmox      IN  A   10.1.1.6
+pushgateway  IN  A   10.1.1.57
 radarr       IN  A   10.1.1.3
 radarr-kids  IN  A   10.1.1.3
 readarr      IN  A   10.1.1.3
