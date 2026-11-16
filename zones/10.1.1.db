@@ -14,7 +14,6 @@ $TTL    604800
 3   IN  PTR     sto-plex-a1.sto.gentoomaniac.net.
 5   IN  PTR     sto-freenas-a1.sto.gentoomaniac.net.
 6   IN  PTR     sto-proxmox-a1.sto.gentoomaniac.net.
-9   IN  PTR     sto-infra-a1.sto.gentoomaniac.net.
 19  IN  PTR     sto-infra-b1.sto.gentoomaniac.net.
 20   IN  PTR    sto-dev-a1.sto.gentoomaniac.net.
 52   IN  PTR    sto-coredns-a1.sto.gentoomaniac.net.
@@ -23,10 +22,6 @@ $TTL    604800
 59   IN  PTR    sto-vault-b1.sto.gentoomaniac.net.
 60   IN  PTR    sto-nzbget-a1.sto.gentoomaniac.net.
 61   IN  PTR    sto-vault-a1.sto.gentoomaniac.net.
-62   IN  PTR    sto-grafana-a1.sto.gentoomaniac.net.
 57   IN  PTR    sto-grafana-b1.sto.gentoomaniac.net.
-63   IN  PTR    sto-windrose-a1.sto.gentoomaniac.net.
-64   IN  PTR    sto-azeroth-a1.sto.gentoomaniac.net.
-66   IN  PTR    sto-grafana-a1.sto.gentoomaniac.net.
 67   IN  PTR    sto-palworld-a1.sto.gentoomaniac.net.
 70   IN  PTR    sto-homeassistant-a1.sto.gentoomaniac.net.
