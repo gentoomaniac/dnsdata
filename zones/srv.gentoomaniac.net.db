@@ -18,6 +18,7 @@ forgejo      IN  A   10.1.1.20
 git          IN  A   10.1.1.20
 grafana      IN  A   10.1.1.57
 ha           IN  A   10.1.1.70
+immich       IN  A   10.1.1.20
 tempo        IN  A   10.1.1.57
 tempo-otelhttp IN  A 10.1.1.57
 otelcol      IN  A   10.1.1.57
